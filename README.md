@@ -32,7 +32,6 @@
 
 Here are some of my highlighted projects:
 
-- 🎯 [Social Feed](https://github.com/Sravanthi2712/social-feed) –Users can create posts, like, comment, share, add polls and image upload , chat sections and more.
 - 🌐 [Portfolio Website](https://github.com/Sravanthi2712/portfolio) – Responsive personal website built with HTML, CSS, JS  
 - 🛍️ [EcoCart E-commerce Site](https://github.com/Sravanthi2712/E-commerce.git) – An animated e-commerce UI with product filtering  
 - 📚 [E-Learning UI Design](https://github.com/Sravanthi2712/e-learning-frontend) – Frontend for a digital learning platform
