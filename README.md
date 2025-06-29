@@ -42,10 +42,9 @@ Here are some of my highlighted projects:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sravanthi2712&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sravanthi2712&theme=tokyonight" width="48%"/>
-</p>
+![Sravanthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sravanthi2712&show_icons=true&theme=dracula)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Sravanthi2712&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sravanthi2712&layout=compact&theme=gruvbox)
 
 ---
 
